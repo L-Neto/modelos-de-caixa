@@ -9,3 +9,12 @@ p {
     background-color: aqua;
         
 }
+
+.titulo{
+    box-sizing: border-box 40px;
+    text-align: center;
+    margin: 20px 50px;
+    padding: 20px;
+    border: solid 10px green;
+    background-color: aqua;
+}
